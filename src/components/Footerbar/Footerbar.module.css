@@ -1,0 +1,12 @@
+.container {
+    padding-left: 88%;
+    margin-top: 10px;
+    /* background-color: red; */
+}
+
+@media(max-width: 770px) {
+    .container {
+        width: 110%;
+        text-align: left;
+    }
+}

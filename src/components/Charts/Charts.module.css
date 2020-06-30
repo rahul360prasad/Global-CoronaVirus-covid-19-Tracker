@@ -1,0 +1,23 @@
+.container {
+    /* display: flex; */
+    justify-content: center;
+    height: 500px;
+    width: 100%;
+    position: relative;
+}
+
+.container1 {
+    margin-top: 25px;
+    height: 500px;
+    width: 100%;
+    position: relative;
+}
+
+@media (max-width: 770px) {
+    .container {
+        width: 120%;
+    }
+    .container1 {
+        width: 100%;
+    }
+}
