@@ -26,15 +26,15 @@ const Charts = ({
           {
             data: dailyData.map(({ confirmed }) => confirmed),
             label: "Infected",
-            borderColor: "rgb( 0, 0, 255)",
-            backgroundColor: "rgba(0, 0, 255, 0.5)",
+            borderColor: "rgb(0, 138, 230)",
+            backgroundColor: "rgb(0, 153, 255, 0.5)",
             fill: true,
           },
           {
             data: dailyData.map(({ recovered }) => recovered),
             label: "Recovered",
-            borderColor: "rgb( 0, 255, 0)",
-            backgroundColor: "rgb( 0, 255, 0, 0.2)",
+            borderColor: "rgb( 0, 204, 0)",
+            backgroundColor: "rgb( 0, 204, 0, 0.2)",
             fill: true,
           },
           {
