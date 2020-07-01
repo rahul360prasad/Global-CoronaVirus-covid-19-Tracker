@@ -2,7 +2,7 @@ Hello I am Rahul Prasad and I studied MCA and here I built CORONAVirus Tracker u
 
 NOTE:-
 { All information infected, recovered and deaths status is given with the help of line and the barchart daigram, But at globally their is only the status of total number of infected and deaths are given only the recovered status is not given because the global recovered data is not given in API, But individual country having all status i.e, infected, recovered and deaths with bar chart.
-The output of this project is shown by the given link:: https://rahul360prasad.github.io/Covid-19-Tracker-in-React-JS/
+The output of this project is shown by the given link:: https://rahul360prasad.github.io/Global-CoronaVirus-covid-19-Tracker/
 }
 
 Some ScreenShots of MY project:
