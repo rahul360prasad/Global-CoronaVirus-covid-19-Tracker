@@ -127,7 +127,7 @@ const Charts = ({
             label: "People",
             backgroundColor: [
               "rgb(0, 138, 230, 0.6)",
-              "rgb( 0, 255, 0.6)",
+              "rgb( 0, 255, 0, 0.6)",
               "rgb(255, 0, 0, 0.6)",
             ],
             data: [confirmed.value, recovered.value, deaths.value],
